@@ -2,6 +2,7 @@ package com.example.liveattendanceapp.views.login
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.liveattendanceapp.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
