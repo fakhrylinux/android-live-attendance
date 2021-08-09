@@ -5,8 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/bg_btn_primary.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.359375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.536547433903577" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.359375" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.359375" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.35885416666666664" />
       </map>
     </option>
   </component>
