@@ -9,11 +9,11 @@
     <item
         android:id="@+id/action_attendance"
         android:icon="@drawable/ic_baseline_location_on_24"
-        android:title="@string/history"
+        android:title="@string/attendance"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_profile"
         android:icon="@drawable/ic_baseline_person_24"
-        android:title="@string/history"
+        android:title="@string/profile"
         app:showAsAction="always" />
 </menu>
