@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bg_btn_logout.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/bg_btn_primary.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/bg_current_time_dialog.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/bg_handler_bottom_sheet.xml" value="0.37552083333333336" />
         <entry key="app/src/main/res/drawable/bg_image_capture_photo.xml" value="0.375" />
+        <entry key="app/src/main/res/drawable/bg_profile.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.37552083333333336" />
         <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/activity_change_password.xml" value="0.359375" />
         <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.359375" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.536547433903577" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.359375" />
@@ -17,7 +20,9 @@
         <entry key="app/src/main/res/layout/bottom_sheet_attendance.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_attendance.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_history.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.359375" />
         <entry key="app/src/main/res/layout/layout_current_time_dialog.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/layout_progress.xml" value="0.359375" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.35885416666666664" />
       </map>
     </option>
